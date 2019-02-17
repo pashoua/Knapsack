@@ -1,0 +1,16 @@
+Dynamic method max value: 40
+
+Recursion method max value: 40
+
+Dynamic count is: 28
+
+Recursion count is: 29852
+
+Below are the items that were selected: 
+
+Items [item=Mints, value=3, weight=2]
+Items [item=Mints, value=3, weight=2]
+Items [item=Mints, value=3, weight=2]
+Items [item=Mints, value=3, weight=2]
+Items [item=Mints, value=3, weight=2]
+Items [item=Steak, value=25, weight=20]
